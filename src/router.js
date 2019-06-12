@@ -1,5 +1,7 @@
 import Vue from "vue";
 import Router from "vue-router";
+import AppHeader from "./layout/AppHeader";
+import AppFooter from "./layout/AppFooter";
 import Home from "./views/Home.vue";
 
 Vue.use(Router);
@@ -9,7 +11,11 @@ export default new Router({
     {
       path: "/",
       name: "home",
-      component: Home
+      components: {
+        header: AppHeader,
+        default: Home,
+        footer: AppFooter
+      }
     },
     {
       path: "/about",
