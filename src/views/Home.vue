@@ -34,6 +34,7 @@
             <!-- 1st Hero Variation -->
         </div>
         
+       <div id="section1"></div>
         <section class="section bg-secondary">
             <div class="container">
                 <div class="row row-grid align-items-center">
@@ -71,7 +72,8 @@
                 </div>
             </div>
         </section>
-        <section class="section bg-secondary">
+
+        <section class="section bg-secondary" id="page-3">
             <div class="container">
                 <div class="row row-grid align-items-center">
                   <div class="col-md-6">
@@ -146,6 +148,7 @@
                 </div>
             </div>
         </section>
+        <div id="section2"></div>
         <section class="section section-lg">
             <div class="container">
                 <div class="row justify-content-center text-center mb-lg">
@@ -179,7 +182,7 @@
                 </div>
             </div>
         </section>
-        
+        <div id="section3"></div>
         <section class="section section-shaped my-0 overflow-hidden">
             <div class="shape shape-style-3 bg-gradient-default shape-skew">
                 <span></span>

@@ -8,6 +8,7 @@ html {
     -ms-overflow-style: scrollbar;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
 }
 body {
     font-family: $font-family-base;

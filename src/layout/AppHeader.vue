@@ -17,13 +17,13 @@
             </div>
 
             <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
-                    <a slot="title" href="#" class="nav-link" role="button">
+                    <a slot="title" href="#section1" class="nav-link" role="button">
                         <span class="nav-link-inner--text">Munkáim</span>
                     </a>
-                    <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
+                    <a slot="title" href="#section2" class="nav-link" data-toggle="dropdown" role="button">
                         <span class="nav-link-inner--text">Rólam mondták</span>
                     </a>
-                    <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
+                    <a slot="title" href="#section3" class="nav-link" data-toggle="dropdown" role="button">
                         <span class="nav-link-inner--text">Elérhetőség</span>
                     </a>
             </ul>
