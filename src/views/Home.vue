@@ -19,12 +19,10 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">A beautiful Design System
-                                    <span>completed with examples</span>
+                                <h1 class="display-3  text-white">Egyedi, igényes, modern
+                                    <span>website készítés</span>
                                 </h1>
-                                <p class="lead  text-white">The design system comes with four pre-built pages to help
-                                    you get started faster. You can change the text and images and you're good to
-                                    go.</p>
+                                <p class="lead  text-white">Annak érdekében, hogy üzleti álmaid megvalósuljanak és megismerjen a nagyvilág.</p>
                                 
                             </div>
                         </div>
@@ -41,32 +39,15 @@
                     <div class="col-md-6">
                         <div class="card bg-default shadow border-0">
                             <img v-lazy="'img/theme/wellochat.logo.svg'" class="card-img-top">
-                            <blockquote class="card-blockquote">
-                                <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
-                                     class="svg-bg">
-                                    <polygon points="0,52 583,95 0,95" class="fill-default"></polygon>
-                                    <polygon points="0,42 583,95 683,0 0,95" opacity=".2" class="fill-default"></polygon>
-                                </svg>
-                                <h4 class="display-3 font-weight-bold text-white">Design System</h4>
-                                <p class="lead text-italic text-white">The Arctic Ocean freezes every winter and much of
-                                    the sea-ice then thaws every summer, and that process will continue whatever
-                                    happens.</p>
-                            </blockquote>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="pl-md-5">
-                            <icon name="ni ni-settings" class="mb-5" size="lg" type="warning" shadow rounded></icon>
-
-                            <h3>Our customers</h3>
-                            <p class="lead">Don't let your uses guess by attaching tooltips and popoves to any element.
-                                Just make sure you enable them first via JavaScript.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <a href="#" class="font-weight-bold text-warning mt-5">A beautiful UI Kit for impactful
-                                websites</a>
+                            <h3>Wello Chat</h3>
+                            <p class="lead">Startup vállalat</p>
+                            <p>A Wello Chat a Design Terminal startup mentor program alatt létrejött vállalkozás, akik azért kerestek meg, mert szerettek volna egy modern Vue.js framework-kel létrehozott weboldalt.</p>
+                            <p>A logót és a tartalmat együtt alakítottuk ki designer segítségével.</p>
+                            <a href="https://wellochat.com/" class="font-weight-bold text-warning mt-5">Wello Chat weboldal</a>
                         </div>
                     </div>
                 </div>
@@ -78,71 +59,38 @@
                 <div class="row row-grid align-items-center">
                   <div class="col-md-6">
                         <div class="pl-md-5">
-                            <icon name="ni ni-settings" class="mb-5" size="lg" type="warning" shadow rounded></icon>
-
-                            <h3>Our customers</h3>
-                            <p class="lead">Don't let your uses guess by attaching tooltips and popoves to any element.
-                                Just make sure you enable them first via JavaScript.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <a href="#" class="font-weight-bold text-warning mt-5">A beautiful UI Kit for impactful
-                                websites</a>
+                            
+                            <h3>Esküvői weboldal</h3>
+                            <p class="lead">Vendégek számára</p>
+                            <p>Az esküvői weboldal abból a célból jött létre, hogy a vendégek tudjanak tájékozódni a nagy nap programjáról, illetve vissza tudjanak jelezni az ijfú párnak, hogy részt tudnak e venni az ünnepi eseményen.</p>
+                            <a href="https://hajni83.github.io/wedding-page/" class="font-weight-bold text-warning mt-5">Esküvői weboldal</a>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="card bg-default shadow border-0">
                             <img v-lazy="'img/theme/wedding.png'" class="card-img-top">
-                            <blockquote class="card-blockquote">
-                                <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
-                                     class="svg-bg">
-                                    <polygon points="0,52 583,95 0,95" class="fill-default"></polygon>
-                                    <polygon points="0,42 583,95 683,0 0,95" opacity=".2" class="fill-default"></polygon>
-                                </svg>
-                                <h4 class="display-3 font-weight-bold text-white">Design System</h4>
-                                <p class="lead text-italic text-white">The Arctic Ocean freezes every winter and much of
-                                    the sea-ice then thaws every summer, and that process will continue whatever
-                                    happens.</p>
-                            </blockquote>
                         </div>
                     </div>
                     
                 </div>
             </div>
         </section>
-                <section class="section bg-secondary">
+
+        <section class="section bg-secondary">
             <div class="container">
                 <div class="row row-grid align-items-center">
                     <div class="col-md-6">
                         <div class="card bg-default shadow border-0">
                             <img v-lazy="'img/theme/wikipedia.png'" class="card-img-top">
-                            <blockquote class="card-blockquote">
-                                <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
-                                     class="svg-bg">
-                                    <polygon points="0,52 583,95 0,95" class="fill-default"></polygon>
-                                    <polygon points="0,42 583,95 683,0 0,95" opacity=".2" class="fill-default"></polygon>
-                                </svg>
-                                <h4 class="display-3 font-weight-bold text-white">Design System</h4>
-                                <p class="lead text-italic text-white">The Arctic Ocean freezes every winter and much of
-                                    the sea-ice then thaws every summer, and that process will continue whatever
-                                    happens.</p>
-                            </blockquote>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="pl-md-5">
-                            <icon name="ni ni-settings" class="mb-5" size="lg" type="warning" shadow rounded></icon>
-
-                            <h3>Our customers</h3>
-                            <p class="lead">Don't let your uses guess by attaching tooltips and popoves to any element.
-                                Just make sure you enable them first via JavaScript.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <a href="#" class="font-weight-bold text-warning mt-5">A beautiful UI Kit for impactful
-                                websites</a>
+                            <h3>Wikipedia weboldal</h3>
+                            <p class="lead">Gyakorló feladat</p>
+                            <p>A https://en.wikipedia.org/wiki/Communist_Mutants_from_Space weboldal elkészítése, melyen számos HTML, CSS feladatot tudtam gyakorolni.</p>
+                            <p></p>
+                            <a href="https://hajni83.github.io/wikipedia/" class="font-weight-bold text-warning mt-5">Wikipedia weboldal</a>
                         </div>
                     </div>
                 </div>

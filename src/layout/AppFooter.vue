@@ -1,7 +1,7 @@
 <template>
     <footer class="footer has-cards">
             <hr>
-            <div class="row align-items-center justify-content-md-between">
+            <div class="row align-items-center justify-content-md-between" style="text-align:center">
                 <div class="col-md-6">
                     <div class="copyright">
                         &copy; {{year}}
